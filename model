@@ -259,14 +259,6 @@ if __name__ == '__main__':
     model = zh_net()
     model = model.cuda()
     output = model(test_data1,test_data2)
-    pred = torch.where(output > 0.5, 1, 0)
-    gt_image=torch.squeeze(test_label, 1).cpu().numpy()
-    pre_image=torch.squeeze(pred, 1).cpu().numpy()
-    pre_image[pre_image == 1] = 255
-    gt_image[gt_image == 1] = 255
-    cv2.imwrite(filename='E:\python\python36\change_detection\label.png', img=gt_image[0,:,:])
-    cv2.imwrite(filename='E:\python\python36\change_detection\pred.png', img=pre_image[0,:,:])
 
-    print(output)
 
 
