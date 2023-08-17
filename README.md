@@ -1,6 +1,6 @@
 # AERNet
 
-If you use this code for your research, please cite our paper:
+If you use this code or dataset for your research, please cite our paper:
 
 J. Zhang et al., "AERNet: An Attention-Guided Edge Refinement Network and a Dataset for Remote Sensing Building Change Detection," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-16, 2023, Art no. 5617116, doi: 10.1109/TGRS.2023.3300533.
 
