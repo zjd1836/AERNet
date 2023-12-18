@@ -7,7 +7,7 @@ pytorch 1.7.1
 torchvision 0.8.2  
 CUDA 10.1
 # HRCUS-CD
-HRCUS-CD: 链接：https://pan.baidu.com/s/1CBD66kH6gEctVWpScaMeWA 提取码：igw4
+HRCUS-CD: 链接：https://pan.baidu.com/s/1CBD66kH6gEctVWpScaMeWA  提取码：9c0b
 # Citation
 If you use this code or dataset for your research, please cite our paper:  
 
