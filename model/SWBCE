@@ -1,7 +1,7 @@
 import torch.nn as nn
 import torch
 import torch.nn.functional as F
-from utils.metric_tool import SegEvaluator
+from metric_tool import SegEvaluator
 
 class WeightedBCEWithLogitsLoss(nn.Module):
     def __init__(self):
