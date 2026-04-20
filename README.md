@@ -7,7 +7,7 @@ pytorch 1.7.1
 torchvision 0.8.2  
 CUDA 10.1
 # HRCUS-CD
-HRCUS-CD: 链接：http://www.lmars.whu.edu.cn/prof_web/shaozhenfeng/softwares.html
+HRCUS-CD: 链接：https://drive.google.com/file/d/1i3UwGC4_BI0jFM_uzTvXa4zS7ogKX4HU/view?usp=sharing
 # Citation
 If you use this code or dataset for your research, please cite our paper:  
 
